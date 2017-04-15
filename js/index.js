@@ -43,6 +43,10 @@ $(document).ready(function(){
 			name: "MOVIES APP",
 			url: "http://www.themoviesapp.xyz",
 			img: "img/movies.jpg"
+		},,{
+			name: "TETRIS-Javascript",
+			url: "tetris/index.html",
+			img: "img/tetris.jpg"
 		},{
 			name: "TWITTER HEAT MAP",
 			url: "https://github.com/Sushi1985/Twitter-Heat-Map",

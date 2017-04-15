@@ -1,0 +1,31 @@
+#game {
+	position: absolute;
+	left: 50%;
+	margin-left: -22vh;
+}
+
+table {
+    border-collapse: collapse;
+	margin-top: 3em;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+td {
+	width: 4vh;
+	height: 4vh;
+}
+
+.red {
+	background-color: red;
+}
+
+.lg {
+	background-color: lightgrey;
+}
+
+.grey {
+	background-color: grey;
+}
