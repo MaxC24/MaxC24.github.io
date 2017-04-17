@@ -1,3 +1,3 @@
 # TETRIS
 
-Recreating the popular nintendo game using vanilla javascript.
+Recreating the popular Nintendo game using vanilla javascript.
