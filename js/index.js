@@ -37,11 +37,11 @@ $(document).ready(function(){
 
 		var projects = [{
 			name: "POP WRITER",
-			url: "http://www.pop-writer.com",
+			url: "https://github.com/AnthonyVelli/PopWriter",
 			img: "img/popwriter.jpg"
 		},{
 			name: "MOVIES APP",
-			url: "http://www.themoviesapp.xyz",
+			url: "http://themoviesapp.herokuapp.com",
 			img: "img/movies.jpg"
 		},,{
 			name: "TETRIS-Javascript",
@@ -53,7 +53,7 @@ $(document).ready(function(){
 			img: "img/twitter.jpg"
 		},{
 			name: "IMP.NYC",
-			url: "http://www.imp.nyc",
+			url: "https://github.com/Nav31/urlShortener",
 			img: "img/imp.jpg"
 		}];
 
