@@ -36,6 +36,14 @@ $(document).ready(function(){
 		//create the projects lightbox component and add onlickevent.
 
 		var projects = [{
+			name: "TETRIS-Javascript",
+			url: "tetris/index.html",
+			img: "img/tetris.jpg"
+		},{
+			name: "MOVIES APP",
+			url: "http://themoviesapp.herokuapp.com",
+			img: "img/movies.jpg"
+		},{
 			name: "POP WRITER",
 			url: "https://github.com/AnthonyVelli/PopWriter",
 			img: "img/popwriter.jpg"
@@ -43,10 +51,6 @@ $(document).ready(function(){
 			name: "MOVIES APP",
 			url: "http://themoviesapp.herokuapp.com",
 			img: "img/movies.jpg"
-		},,{
-			name: "TETRIS-Javascript",
-			url: "tetris/index.html",
-			img: "img/tetris.jpg"
 		},{
 			name: "TWITTER HEAT MAP",
 			url: "https://github.com/Sushi1985/Twitter-Heat-Map",
