@@ -125,6 +125,7 @@ a div {
 
 #center {
 	overflow: hidden;
+	min-height: 500px;
 }
 
 #right-side {
@@ -153,4 +154,10 @@ a div {
 
 div#download {
 	margin: 2vw;
+}
+
+.links img {
+	display: inline-block;
+	height: 30px;
+	margin: 0px 10px;
 }
